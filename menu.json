@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Jajecznica na maśle (podawana w nalesniku ze szczypiorkiem i pieczywem)",
+        "description": "",
+        "price": 9.0
+    },
+    {
+        "name": "Śniadaniowe burrito z szynką, serem żółtym, salsą pomidorową, sałatą lodową, jalapeno, jajkiem sadzonym, sosem koperkowym i szczypiorkiem",
+        "description": "",
+        "price": 12.0
+    },
+    {
+        "name": "Pancake burger z szarpaną wieprzowiną, sosem bbq, sałatami, surówką z kapusty, musztardą, pomidorami i czerwoną cebulą",
+        "description": "",
+        "price": 13.0
+    },
+    {
+        "name": "Biały ser z ziemniakami i cebulą, sos",
+        "description": "",
+        "price": 11.0
+    },
+    {
+        "name": "Wieprzowina szarpana, ser żółty, zioła, sos",
+        "description": "",
+        "price": 15.5
+    },
+    {
+        "name": "Mięso mielone (bolognese), ser żółty, sos",
+        "description": "",
+        "price": 16.5
+    },
+    {
+        "name": "Woda gazowana / niegazowana 0,3l",
+        "description": "",
+        "price": 3.5
+    },
+    {
+        "name": "Pepsi Wild Cherry, Pepsi Lime, Mountain Dew 0,5l",
+        "description": "",
+        "price": 7.0
+    },
+    {
+        "name": "Rockstar 0,25l",
+        "description": "",
+        "price": 6.5
+    }
+]
